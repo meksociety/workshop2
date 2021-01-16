@@ -23,5 +23,5 @@ print(string.replace("e", "z"))
 
 # จงเติมคำในช่องว่าเพื่อแสดงชื่อ
 myname = "Mek"
-txt = (myname) + " is the best programmer"
+txt = "{} is the best programmer"
 print(txt.format(myname))
