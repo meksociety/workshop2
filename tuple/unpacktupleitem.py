@@ -4,3 +4,7 @@ fruits = ("apple", "banana", "cherry")
 print(green)
 print(yellow)
 print(red)
+
+# apple
+# banana
+# cherry
