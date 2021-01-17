@@ -1,4 +1,4 @@
-thislist = ["apple", "banana", "cherry"]
+thislist = ("apple", "banana", "cherry")
 
 print(thislist[0])
 print(thislist[1])
