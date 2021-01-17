@@ -23,3 +23,4 @@ print(pub_ao_udom_set)
 
 # 6.จงเขียนคำสั่งเพื่อเคลียค่าของ pub_ao_udom_set ทั้งหมด
 pub_ao_udom_set.clear()
+print(pub_ao_udom_set)
