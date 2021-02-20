@@ -17,9 +17,9 @@ class Person:
         return {"name": self.name, "age": self.age}
 
 
-name = "Nantachaporn Rueangsuwan"
+name = "Thanakorn Tumthong"
 age = 21
-address = "Japan"
+address = "แถวๆเมกา เป็นวัยรุ่นเมกา"
 
 person = Person(name, age, address)
 
