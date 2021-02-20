@@ -5,9 +5,8 @@ weight = 80.0
 can_walk = True
 can_run = False
 
-
-print(type(name))
-print(type(age))
-print(type(weight))
-print(type(can_walk))
-print(type(can_run))
+print(name)
+print(age)
+print(weight)
+print(can_walk)
+print(can_run)
